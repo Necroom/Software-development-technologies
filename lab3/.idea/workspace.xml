@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e69c9fad-1fcf-4fa1-b733-5f234af2c422" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../FirstLab/.idea/shelf/Uncommitted_changes_before_Checkout_at_30_04_2024_16_36_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/.idea/shelf/Uncommitted_changes_before_Checkout_at_30_04_2024_16_36__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/.idea/artifacts/Market_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/HotDogLibrary/HotDogLibrary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/HotDogLibrary/src/Berlinka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/HotDogLibrary/src/HotDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/HotDogLibrary/src/HotDogComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/HotDogLibrary/src/HotDogOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/HotDogLibrary/src/HunterDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/HotDogLibrary/src/MasterDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/Market.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/src/Market.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/src/main/java/diagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirstLab/Market/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstLab/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLab/Market/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstLab/Market/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLab/Market/out/production/HotDogLibrary/Berlinka.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstLab/Market/out/production/HotDogLibrary/Berlinka.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLab/Market/out/production/HotDogLibrary/HunterDog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstLab/Market/out/production/HotDogLibrary/HunterDog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLab/Market/src/main/java/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstLab/Market/src/main/java/Repository.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2fpAJiNJrkWf4iiztfNybNtk0Sd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Project.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/labs/2year/4SEM/TRPO/TRPO-labs/lab3"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e69c9fad-1fcf-4fa1-b733-5f234af2c422" name="Changes" comment="" />
+      <created>1714487575678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714487575678</updated>
+    </task>
+    <servers />
+  </component>
+</project>
