@@ -2,50 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fddd385e-f44d-45e4-ab71-fce54382ddd2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FirstLab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Market.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/.idea/artifacts/Market_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/HotDogLibrary/HotDogLibrary.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/HotDogLibrary/src/Berlinka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/HotDogLibrary/src/HotDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/HotDogLibrary/src/HotDogComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/HotDogLibrary/src/HotDogOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/HotDogLibrary/src/HunterDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/HotDogLibrary/src/MasterDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/Market.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/src/Market.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/src/main/java/diagram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Market/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HotDogLibrary/Berlinka.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HotDogLibrary/HotDog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HotDogLibrary/HotDogComponent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HotDogLibrary/HotDogOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HotDogLibrary/HunterDog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HotDogLibrary/MasterDog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Market/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Market/diagram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/repository.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/src/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab3/QuickSort/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab3/QuickSortLib/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Market/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Market/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2fp2JyOrzUHVPKMs9kO6nZA9KI1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -75,13 +33,29 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "lr1",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/labs/2year/4SEM/TRPO/TRPO-labs/FirstLab",
     "onboarding.tips.debug.path": "D:/labs/2year/4SEM/TRPO/TRPO-labs/FirstLab/repository/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="FirstLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="FirstLab" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
