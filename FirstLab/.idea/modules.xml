@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FirstLab.iml" filepath="$PROJECT_DIR$/.idea/FirstLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Market/HotDogLibrary/HotDogLibrary.iml" filepath="$PROJECT_DIR$/Market/HotDogLibrary/HotDogLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Market/src/Market.iml" filepath="$PROJECT_DIR$/Market/src/Market.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repository/repository.iml" filepath="$PROJECT_DIR$/repository/repository.iml" />
+    </modules>
+  </component>
+</project>
